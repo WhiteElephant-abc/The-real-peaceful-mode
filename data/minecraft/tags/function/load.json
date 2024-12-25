@@ -1,1 +1,6 @@
-{"replace": false,"values": ["iwtd:start"]}
+{
+    "replace": false,
+    "values": [
+        "the_real_peace_mode:start"
+    ]
+}

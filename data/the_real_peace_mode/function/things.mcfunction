@@ -1,5 +1,3 @@
-#检测datapackets-functions-LIB数据包是否加载
-
 #如果未加载：
 execute unless score @r dfl_enable matches 1 run \
     title @a times 0 70 20
@@ -10,3 +8,4 @@ execute unless score @r dfl_enable matches 1 run \
 execute unless score @r dfl_enable matches 1 run \
     return fail
 title @a reset
+
