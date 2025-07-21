@@ -1,5 +1,7 @@
 # [TRPM]真正的和平模式（The real peaceful mode）
 
+如果遇到任何问题，[点击这里](https://github.com/WhiteElephant-abc/The-real-peaceful-mode/issues/new/choose)反馈
+
 ## 作用
 
 此数据包能够让所有生物不与玩家敌对
